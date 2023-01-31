@@ -4,3 +4,4 @@ Blog para el curso de git y github, curso donde se veran temas intereantes y pra
 
 Creado por platzi team
 incluye ejemplos en Windows y Mac
+Disponible para todas las edades
